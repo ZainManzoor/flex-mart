@@ -10,6 +10,11 @@
       "StackName": "amplify-flexmart-dev-13720",
       "StackId": "arn:aws:cloudformation:us-east-1:343478869881:stack/amplify-flexmart-dev-13720/938731f0-2418-11ee-a4bb-0afe952b3983",
       "AmplifyAppId": "d2r8fszswla896"
+    },
+    "categories": {
+      "api": {
+        "flexmart": {}
+      }
     }
   }
 }
